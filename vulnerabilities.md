@@ -15,7 +15,7 @@ This page contains more information on found vulnarabilities in the FundRequest 
 
 ### *CSRF and account takeover  Vulnerabilities *
 *CSRF to update ETH wallet address in victims account 
-and Victims account takeover *
+and Victims account takeover using password reset link hijacking *
 
 #### Auditor
 *@akhilcryptos*
