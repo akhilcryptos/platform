@@ -13,7 +13,7 @@ This page contains more information on found vulnarabilities in the FundRequest 
 1 : CSRF to update ETH wallet address in victims account 
 2 : Victims account takeover 
 
-### *vulnerability title*
+### *CSRF and account takeover  Vulnerabilities *
 *CSRF to update ETH wallet address in victims account 
 and Victims account takeover *
 
